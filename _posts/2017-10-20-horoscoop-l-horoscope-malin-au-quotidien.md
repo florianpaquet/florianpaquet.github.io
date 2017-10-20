@@ -25,6 +25,8 @@ Prends ça dans tes dents Doctissimo.
 
 Vous l'avez probablement expérimenté au moins une fois dans votre vie : le réveil radio FM à l'heure de l'horoscope. Souvenez-vous des jours annoncés comme compliqués et mettez-y en relation votre motivation à aller au travail...
 
+![Motivation et optimisme]({{ "/assets/images/horoscope-motivation.jpg" | absolute_url }}){: .centered }
+
 À l'ère des assistants personnels (l'horoscope à la radio c'est désormais réservé aux _anciens_), Horoscoop s'intègre __parfaitement__ dans votre rythme quotidien et peut même vous conseiller de rester chez vous en cas de journée catastrophique.
 
 Il ne vous restera alors plus qu'à en informer votre employeur en arguant que votre état de motivation pourrait être contagieux.
