@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Welcome home"
-date:   2017-10-19 10:36:00 +0200
-categories: hello welcome
+title:  "I have a dream"
+date:   2017-10-20 10:36:00 +0200
+categories: "machine learning"
+image: assets/images/dream.jpg
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
@@ -19,6 +20,8 @@ print_hi('Tom')
 {% endhighlight %}
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+![Dream]({{ "/assets/images/dream.jpg" | absolute_url }})
 
 [Super link](http://google.fr)
 
