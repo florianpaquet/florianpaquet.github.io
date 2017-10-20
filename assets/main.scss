@@ -1,0 +1,16 @@
+---
+---
+@import "https://fonts.googleapis.com/css?family=Droid+Serif";
+
+$base-font-family: "Droid Serif", serif;
+$content-width:    950px;
+
+@import "minima";
+
+.image_description {
+    display: block;
+    font-size: $small-font-size;
+    color: $grey-color;
+    text-align: right;
+    margin-top: 5px;
+}
